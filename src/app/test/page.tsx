@@ -1,9 +1,9 @@
-import { Crawl } from './component/crawl'
+import { CrawlA1 } from './a1/ca1'
 
 export default function TestPage() {
   return (
     <>
-      <Crawl />
+      <CrawlA1 />
     </>
   )
 }
